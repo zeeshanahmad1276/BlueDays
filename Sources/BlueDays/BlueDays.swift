@@ -13,7 +13,7 @@ enum Countries: String {
     
 }
 
-class BlueDays {
+public class BlueDays {
     
     static let shared = BlueDays()
     
