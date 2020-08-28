@@ -15,7 +15,7 @@ enum Countries: String {
 
 class BlueDays {
     
-    static let shared = BlueDays1()
+    static let shared = BlueDays()
     
     func countryCapital (_ capital: Countries) -> String {
         
